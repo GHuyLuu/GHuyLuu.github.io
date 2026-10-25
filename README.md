@@ -7,7 +7,7 @@ Ho Chi Minh City, Vietnam
 
 ## About
 
-I am a Computer Science student at UIT with a passion for scientific research, especially in artificial intelligence and natural language processing. I have carried out a series of studies on natural language processing tasks, agentic AI, and large language models, in both Vietnamese and English.
+I am a Computer Science student at the University of Information Technology, Vietnam National University Ho Chi Minh City (UIT-VNU-HCM), with a passion for scientific research, especially in artificial intelligence and natural language processing. I have carried out a series of studies on natural language processing tasks in both Vietnamese and English, as well as on agentic AI and large language models.
 
 Going forward, I will keep doing research that improves performance on natural language processing tasks, especially in multilingual and low-resource settings; that makes LLM agents dependable when they work together; and that makes the evaluation of these systems worthy of trust.
 

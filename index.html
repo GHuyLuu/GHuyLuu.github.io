@@ -102,7 +102,7 @@
 
     /* publications */
     ol.pubs { list-style: none; margin: .4rem 0 0; padding: 0; max-width: 50rem; }
-    ol.pubs li { display: grid; grid-template-columns: 2.4rem 1fr; padding: .85rem 0; border-bottom: 1px solid var(--line); scroll-margin-top: 4rem; }
+    ol.pubs > li { display: grid; grid-template-columns: 2.4rem 1fr; padding: .85rem 0; border-bottom: 1px solid var(--line); scroll-margin-top: 4rem; }
     ol.pubs .n { font-family: var(--head); font-weight: 500; color: var(--red-text); }
     ol.pubs .c > span { display: block; }
     ol.pubs .pt { color: var(--ink); font-weight: 700; line-height: 1.4; }
@@ -113,7 +113,7 @@
     ol.pubs .cite em { color: var(--ink); }
     ol.pubs .eq { color: var(--muted); font-size: .9rem; }
     ol.pubs .n { white-space: nowrap; }
-    ol.pubs li { grid-template-columns: 3rem 1fr; }
+    ol.pubs > li { grid-template-columns: 3rem 1fr; }
     details { margin-top: .7rem; }
     summary { cursor: pointer; font-family: var(--head); font-size: .92rem; color: var(--red-text); }
     details p { margin: .9rem 0 0; max-width: 42rem; }
@@ -176,15 +176,15 @@
     <main>
       <section class="pt-page" id="about" aria-labelledby="about-h">
         <div class="section-title-block"><h2 class="section-title" id="about-h">About me</h2><span class="section-description">who I am and what I work on</span></div>
-      <p class="story">I am a Computer Science student at UIT with a passion for scientific research, especially in artificial intelligence and natural language processing. I have carried out a series of studies on natural language processing tasks, agentic AI, and large language models, in both Vietnamese and English.</p>
-      <p class="story">I work on one problem from three sides: language models often give an answer that looks right but is not what the text means or what the evidence supports. I improve models on Vietnamese and English text, study how agents inherit each other's mistakes, and audit whether the evaluation of both deserves trust.</p>
+      <p class="story">I am a Computer Science student at the University of Information Technology, Vietnam National University Ho Chi Minh City (UIT-VNU-HCM), with a passion for scientific research, especially in artificial intelligence and natural language processing. I have carried out a series of studies on natural language processing tasks in both Vietnamese and English, as well as on agentic AI and large language models.</p>
+      <p class="story">My research starts from one concern: language models often give answers that look right but are not what the text means or what the evidence supports. I approach it in three ways. I improve how well language models handle text classification tasks in Vietnamese and English. I study how LLM agents hand plans and mistakes to one another when they work together, and how to grade them. And I examine whether the way we evaluate these systems deserves trust.</p>
       <p class="tally">11 studies: 6 accepted or published, 4 under review, 1 in preparation.</p>
 
       <h3 class="sub">Research fields</h3>
       <ul class="fields">
-        <li><a href="#res-text">Text classification</a><span>implicit sentiment analysis, aspect-based sentiment analysis, named entity recognition; benchmarks, prompting, fine-tuning, annotation</span></li>
-        <li><a href="#res-agents">Agentic AI</a><span>delegation, verification, research-reproduction agents, rubric-based grading</span></li>
-        <li><a href="#res-eval">LLM evaluation</a><span>LLM-as-a-judge, provenance, multilingual and low-resource evaluation</span></li>
+        <li><a href="#res-text">Text classification</a><span>Assigning the right label to a text, such as the sentiment it carries, the opinions it expresses about specific aspects, or the entities it mentions, with a focus on Vietnamese and other low-resource settings.</span></li>
+        <li><a href="#res-agents">Agentic AI</a><span>Studying LLM agents that plan, delegate, and carry out tasks together, from how they pass plans and errors to one another to how research agents that reproduce papers are graded.</span></li>
+        <li><a href="#res-eval">LLM evaluation</a><span>Examining whether the ways we evaluate LLMs, especially with LLM judges in multilingual settings, are independent and reliable enough to trust.</span></li>
       </ul>
 
       <h3 class="sub">Brief introduction</h3>

@@ -3,7 +3,7 @@
 **Undergraduate student in Computer Science at the University of Information Technology (UIT), Vietnam National University Ho Chi Minh City** · publishes as *Huy Gia Luu*
 Ho Chi Minh City, Vietnam
 
-[Website](https://luvlamnhiu123-ui.github.io/) · [Email](mailto:23520618@gm.uit.edu.vn)
+[Website](https://ghuyluu.github.io/) · [Email](mailto:23520618@gm.uit.edu.vn)
 
 ## About
 
@@ -47,7 +47,7 @@ Going forward, I will keep doing research that improves performance on natural l
 
 11. **Huy Gia Luu** et al. Retrieval-Augmented Multi-Agent System for Aspect Category Sentiment Analysis on Vietnamese Reviews. In preparation.
 
-My specific contribution to each study is described on my research homepage: [luvlamnhiu123-ui.github.io](https://luvlamnhiu123-ui.github.io/).
+My specific contribution to each study is described on my research homepage: [ghuyluu.github.io](https://ghuyluu.github.io/).
 
 ## Education
 
@@ -84,6 +84,6 @@ Led by [Assoc. Prof. Ngan Luu-Thuy Nguyen](https://scholar.google.com/citations?
 ## Contact
 
 - **Email:** 23520618@gm.uit.edu.vn
-- **Website:** https://luvlamnhiu123-ui.github.io/
+- **Website:** https://ghuyluu.github.io/
 
 *Last updated October 2026.*

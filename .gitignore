@@ -1,0 +1,60 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+*.egg-info/
+dist/
+build/
+
+# Secrets and local config
+.env
+.env.*
+*.key
+*.pem
+secrets.json
+config.local.*
+
+# Data and model outputs (keep large files out of git)
+data/raw/
+*.ckpt
+*.pt
+*.pth
+*.bin
+*.safetensors
+wandb/
+runs/
+logs/
+
+# LaTeX build artifacts
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
+*.toc
+*.lof
+*.lot
+*.nav
+*.snm
+*.vrb
+*.dvi
+*.ps
+*.bcf
+*.run.xml
+*.xdv
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/
+.vscode/
+*.swp
+*~

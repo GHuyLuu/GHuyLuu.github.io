@@ -32,13 +32,13 @@ Going forward, I will keep doing research that improves performance on natural l
 1. Hanhua Hong, Yizhi Li, Jiaoyan Chen, **Huy Gia Luu**, Sophia Ananiadou, Jung-jae Kim, and Chenghua Lin. 2026. Can LLMs Write Reliable Rubrics? A Meta-Evaluation for Experiment Reproduction. In *Findings of the Association for Computational Linguistics: AACL 2026*. To appear.
 2. Hanhua Hong, Yizhi Li, **Huy Gia Luu**, Jian Yang, Ming Zhou, and Chenghua Lin. 2026. Overview of the NLPCC 2026 Shared Task 11: Agent-Based Experiment Reproduction from Scientific Papers. In *Proceedings of NLPCC 2026, Shared Tasks*. To appear.
 3. **Huy Gia Luu**, Hoang Nguyen Minh, Vu Duc Nguyen, and Dang Van Thin. 2026. Marker-Aligned Subspace Separation for Implicit Sentiment Analysis. In *Proceedings of the International Symposium on Information and Communication Technology (SOICT 2026)*. To appear.
-4. **Huy Gia Luu**\* et al. 2026. A Benchmark Evaluation of Named Entity Recognition with Large Language Models in Vietnamese. In *Proceedings of ATAC 2026*. To appear. \*Co-first author. [[PDF]](atac2026-vietnamese-ner-benchmark.pdf)
+4. Lam Gia Tran\*, **Huy Gia Luu**\*, Quy Phu Le, and Dang Van Thin. 2026. A Benchmark Evaluation of Named Entity Recognition with Large Language Models in Vietnamese. In *Proceedings of ATAC 2026*. To appear. \*Equal contribution. [[PDF]](atac2026-vietnamese-ner-benchmark.pdf)
 5. Hoang Nguyen Minh\*, **Huy Gia Luu**\*, and Dang Van Thin. 2026. Investigating the Role of Reasoning Augmentation in Parameter-Efficient Fine-Tuning for Implicit Sentiment Analysis. In *Proceedings of ATAC 2026*. To appear. \*Equal contribution. [[PDF]](atac2026-isa-reasoning-peft.pdf) [[Code]](https://github.com/UIT23520530/atac2026)
 6. **Huy Gia Luu** and Dang Van Thin. 2025. Exploring the Power of Large Language Models for Vietnamese Implicit Sentiment Analysis. In *Proceedings of the 18th International Natural Language Generation Conference*, pages 202–214, Hanoi, Vietnam. Association for Computational Linguistics. [[ACL Anthology]](https://aclanthology.org/2025.inlg-main.14/) [[Code]](https://github.com/HuyGiaLuu/ViISA)
 
 **Under review**
 
-7. **Huy Gia Luu**, Hoang Nguyen Minh, and Dang Van Thin. Self-Reflective Contextual Reasoning: A Single-Turn Prompting Strategy for Implicit Sentiment Analysis. Under review at *Vietnam Journal of Computer Science*.
+7. **Huy Gia Luu** et al. Self-Reflective Contextual Reasoning: A Single-Turn Prompting Strategy for Implicit Sentiment Analysis. Under review at *Vietnam Journal of Computer Science*.
 8. **Huy Gia Luu** et al. Structured Code-Style Instruction Tuning for Vietnamese Aspect-Based Sentiment Analysis. Under review at a Springer journal.
 9. **Huy Gia Luu** et al. Follow Precisely: Plan Adherence Directives and Flawed-Plan Propagation in Multi-Agent Delegation. Under review at *AAMAS 2027*.
 10. **Huy Gia Luu** et al. Different Vendors Do Not Imply Independence: Provenance-Aware Multilingual LLM Evaluation. Under review at *ACL Rolling Review* (October 2026 cycle).

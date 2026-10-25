@@ -134,6 +134,15 @@
     #contact li { padding: .55rem 0; border-bottom: 1px solid var(--line); overflow-wrap: anywhere; }
     .foot { margin: 3rem 0 0; font-size: .85rem; color: var(--muted); }
 
+    /* centred content column and justified text */
+    .site-nav { padding: .9rem 2rem; }
+    .site-main-menu { max-width: 54rem; margin: 0 auto; }
+    .pt-page { max-width: 58rem; margin-left: auto; margin-right: auto; padding: 0 2.5rem 4rem; }
+    .section-title { margin-left: -2.5rem; padding-left: 2.5rem; }
+    .story, ul.fields, ol.journey, .cv, dl.skills, .project, ol.pubs, details p, details ul, #contact ul { max-width: none; }
+    .pt-foot { max-width: 58rem; margin: 3rem auto 0; padding: 0 2.5rem; }
+    .story, .project p, details p, details li, .cv .more, ol.journey .d, dl.skills dd, ul.fields span, ol.pubs .cite, ol.pubs .pm { text-align: justify; hyphens: auto; -webkit-hyphens: auto; }
+
     @media (max-width: 64rem) {
       .header { position: static; width: auto; }
       .header-inner { padding: 1.6rem 1.2rem 1.3rem; text-align: left; }
@@ -147,6 +156,7 @@
       .section-description { display: none; }
     }
     @media (max-width: 36rem) {
+      .story, .project p, details p, details li, .cv .more, ol.journey .d, dl.skills dd, ul.fields span, ol.pubs .cite, ol.pubs .pm { text-align: left; hyphens: manual; }
       body { font-size: 1rem; }
       ul.fields { grid-template-columns: 1fr; }
       .summary > div { grid-template-columns: 1fr; }
@@ -160,11 +170,10 @@
     <div class="header-inner">
       <h1 class="site-title">Luu Gia Huy</h1>
       <p class="site-description">Undergraduate student in Computer Science</p>
-      <p class="site-also">Publishes as Huy Gia Luu</p>
       <p class="site-affil">University of Information Technology,<br>Vietnam National University Ho Chi Minh City</p>
       <ul class="social-links">
         <li><a href="https://github.com/GHuyLuu">GitHub</a></li>
-        <li><a href="mailto:23520618@gm.uit.edu.vn">Email</a></li>
+        <li><a href="#contact">Email</a></li>
       </ul>
     </div>
   </div>
@@ -202,12 +211,12 @@
         <div class="section-title-block"><h2 class="section-title" id="resume-h">Resume</h2><span class="section-description">education, experience, skills</span></div>
       <h3 class="sub">Education</h3>
       <div class="cv">
-        <div class="row"><span class="date">2023 – 2027 (expected)</span><span class="what"><span class="t">Undergraduate program in Computer Science</span><span class="where">University of Information Technology (UIT), Vietnam National University Ho Chi Minh City</span><span class="more">Advisor: <a href="https://scholar.google.com/citations?user=5WKo838AAAAJ&amp;hl=en">Dr. Dang Van Thin</a>. Graduation thesis: A Study of Advanced Techniques for Improving Sentiment Analysis Performance with Language Models (Vietnamese: Nghiên cứu các kỹ thuật nâng cao cải thiện hiệu suất bài toán phân tích cảm xúc với mô hình ngôn ngữ).</span></span></div>
+        <div class="row"><span class="date">2023 – 2027 (expected)</span><span class="what"><span class="t">Undergraduate program in Computer Science</span><span class="where">University of Information Technology (UIT), Vietnam National University Ho Chi Minh City</span><span class="more">Supervisor: <a href="https://scholar.google.com/citations?user=5WKo838AAAAJ&amp;hl=en">Dr. Dang Van Thin</a>. Graduation thesis: A Study of Advanced Techniques for Improving Sentiment Analysis Performance with Language Models (Vietnamese: Nghiên cứu các kỹ thuật nâng cao cải thiện hiệu suất bài toán phân tích cảm xúc với mô hình ngôn ngữ).</span></span></div>
       </div>
 
       <h3 class="sub">Research experience</h3>
       <div class="cv">
-        <div class="row"><span class="date">2024 – present</span><span class="what"><span class="t">Research Assistant, UIT.NLP Research Group</span><span class="where">University of Information Technology, VNU-HCM</span><span class="more">Led by <a href="https://scholar.google.com/citations?user=VoTCbXYAAAAJ&amp;hl=en">Assoc. Prof. Ngan Luu-Thuy Nguyen</a>, under the supervision of <a href="https://scholar.google.com/citations?user=5WKo838AAAAJ&amp;hl=en">Dr. Dang Van Thin</a>. Take part in research on improving the performance of sentiment analysis in both Vietnamese and English.</span></span></div>
+        <div class="row"><span class="date">2024 – present</span><span class="what"><span class="t">Research Assistant, UIT.NLP Research Group</span><span class="where">University of Information Technology, VNU-HCM</span><span class="more">Led by <a href="https://scholar.google.com/citations?user=VoTCbXYAAAAJ&amp;hl=en">Assoc. Prof. Ngan Luu-Thuy Nguyen</a>,<br>under the supervision of <a href="https://scholar.google.com/citations?user=5WKo838AAAAJ&amp;hl=en">Dr. Dang Van Thin</a>. Take part in research on improving the performance of sentiment analysis in both Vietnamese and English.</span></span></div>
         <div class="row"><span class="date">2026 – present</span><span class="what"><span class="t">Research Intern (remote)</span><span class="where">Lab of <a href="https://chenghua-lin.github.io/">Prof. Chenghua Lin</a></span><span class="more">Contribute to research on agentic AI systems that support the reproduction of scientific research.</span></span></div>
       </div>
 
@@ -533,8 +542,8 @@
         <div class="section-title-block"><h2 class="section-title" id="contact-h">Contact</h2><span class="section-description">get in touch</span></div>
         <h3 class="sub">Email and profiles</h3>
         <ul>
-        <li><a href="mailto:23520618@gm.uit.edu.vn">23520618@gm.uit.edu.vn</a></li>
-        <li><a href="https://github.com/GHuyLuu">GitHub</a></li>
+        <li>Email: 23520618 (at) gm.uit.edu.vn</li>
+        <li>GitHub: <a href="https://github.com/GHuyLuu">GHuyLuu</a></li>
       </ul>
         <p class="story">I am happy to discuss research on Vietnamese and multilingual NLP, agentic AI, and LLM evaluation.</p>
       </section>

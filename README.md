@@ -1,9 +1,9 @@
 # Luu Gia Huy
 
-**Undergraduate student in Computer Science at the University of Information Technology (UIT), Vietnam National University Ho Chi Minh City** · publishes as *Huy Gia Luu*
+**Undergraduate student in Computer Science at the University of Information Technology (UIT), Vietnam National University Ho Chi Minh City**  
 Ho Chi Minh City, Vietnam
 
-[Website](https://ghuyluu.github.io/) · [Email](mailto:23520618@gm.uit.edu.vn)
+[Website](https://ghuyluu.github.io/) · [GitHub](https://github.com/GHuyLuu) · Email: 23520618 (at) gm.uit.edu.vn
 
 ## About
 
@@ -54,14 +54,15 @@ My specific contribution to each study is described on my research homepage: [gh
 **University of Information Technology (UIT), Vietnam National University Ho Chi Minh City**
 Undergraduate program in Computer Science · 2023 – 2027 (expected)
 
-- **Advisor:** [Dr. Dang Van Thin](https://scholar.google.com/citations?user=5WKo838AAAAJ&hl=en)
+- **Supervisor:** [Dr. Dang Van Thin](https://scholar.google.com/citations?user=5WKo838AAAAJ&hl=en)
 - **Graduation thesis:** A Study of Advanced Techniques for Improving Sentiment Analysis Performance with Language Models
   *(Vietnamese title: Nghiên cứu các kỹ thuật nâng cao cải thiện hiệu suất bài toán phân tích cảm xúc với mô hình ngôn ngữ)*
 
 ## Research Experience
 
-**Research Assistant, UIT.NLP Research Group**, University of Information Technology, VNU-HCM · 2024 – present
-Led by [Assoc. Prof. Ngan Luu-Thuy Nguyen](https://scholar.google.com/citations?user=VoTCbXYAAAAJ&hl=en), under the supervision of [Dr. Dang Van Thin](https://scholar.google.com/citations?user=5WKo838AAAAJ&hl=en).
+**Research Assistant, UIT.NLP Research Group**, University of Information Technology, VNU-HCM · 2024 – present  
+Led by [Assoc. Prof. Ngan Luu-Thuy Nguyen](https://scholar.google.com/citations?user=VoTCbXYAAAAJ&hl=en),  
+under the supervision of [Dr. Dang Van Thin](https://scholar.google.com/citations?user=5WKo838AAAAJ&hl=en).
 - Take part in research on improving the performance of sentiment analysis in both Vietnamese and English.
 
 **Research Intern (remote)**, Lab of [Prof. Chenghua Lin](https://chenghua-lin.github.io/) · 2026 – present
@@ -83,7 +84,8 @@ Led by [Assoc. Prof. Ngan Luu-Thuy Nguyen](https://scholar.google.com/citations?
 
 ## Contact
 
-- **Email:** 23520618@gm.uit.edu.vn
+- **Email:** 23520618 (at) gm.uit.edu.vn
+- **GitHub:** [GHuyLuu](https://github.com/GHuyLuu)
 - **Website:** https://ghuyluu.github.io/
 
 *Last updated October 2026.*
